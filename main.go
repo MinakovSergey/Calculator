@@ -16,7 +16,7 @@ func main() {
 		"1. Введите в одну строку два числа и математический знак между ними.\n" +
 		"2. Можно использовать как арабские так и римские числа, главное, чтобы оба числа были в одной системе исчисления\n" +
 		"3. На данный момент калькулятор поддерживает только 4 математических операции: '+', '-', '*', '/'\n" +
-		"P.S.Enjoy and give feedback to https://github.com/psatin42/\n" +
+		"P.S.Enjoy and give feedback to https://github.com/MinakovSergey/Calculator\n" +
 		"\n\n" +
 		"Введите математическое выражение:")
 	intType, first, second, sign, err := readLine()
